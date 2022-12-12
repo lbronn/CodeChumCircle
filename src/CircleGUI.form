@@ -43,8 +43,10 @@
           </grid>
         </constraints>
         <properties>
+          <background color="-13342425"/>
           <editable value="false"/>
           <font size="36"/>
+          <foreground color="-1"/>
         </properties>
       </component>
       <component id="74671" class="javax.swing.JLabel">
@@ -63,8 +65,10 @@
           </grid>
         </constraints>
         <properties>
+          <background color="-3332307"/>
           <editable value="false"/>
           <font size="36"/>
+          <foreground color="-1"/>
         </properties>
       </component>
       <component id="7dbc5" class="javax.swing.JButton" binding="btnClear">
